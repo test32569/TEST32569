@@ -1,73 +1,39 @@
-# ⚡ TEST32569
-
-### PREMIUM ELECTRONICS & ACCESSORIES
+# TEST32569 — Premium Electronics & Accessories
 
 **Innovation Meets Everyday Life.**
 
-![Electronics](https://img.shields.io/badge/ELECTRONICS-PREMIUM-00D9FF?style=for-the-badge&labelColor=101C32)
-![Accessories](https://img.shields.io/badge/TECH-ACCESSORIES-101C32?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/SMART-INNOVATION-00D9FF?style=for-the-badge&labelColor=101C32)
-![Website](https://img.shields.io/badge/WEBSITE-COMING%20SOON-A7B1BE?style=for-the-badge)
+A responsive, multi-page concept ecommerce website with a dark-blue / cyan design system.
 
----
+## Run locally
 
-## 🌐 Welcome to TEST32569
+Open `index.html` in your browser, or use a static server (`python -m http.server 8000`) and visit `http://localhost:8000`.
 
-**TEST32569** is a modern electronics and technology accessories brand focused on innovation, smart design, and everyday convenience.
+## GitHub Pages
 
-Our vision is to create a premium shopping destination where technology enthusiasts can discover modern gadgets, stylish accessories, and innovative electronic products.
+1. Create a public repository such as `test32569-store`.
+2. Upload the **contents** of this folder to the repository root (keep `index.html` in the root).
+3. Go to **Settings → Pages → Deploy from a branch → main → / (root)**.
+4. Your site will typically appear at `https://YOUR_USERNAME.github.io/test32569-store/`.
 
-From wireless headphones and smartwatches to gaming accessories and essential tech gadgets, TEST32569 brings technology and contemporary lifestyle together.
+## Features
 
-**Discover Technology. Experience Innovation. Upgrade Your Everyday Life.**
+- Responsive landing page and navigation
+- 12 illustrative products in five categories
+- Search, category filters, price sorting
+- Interactive demo cart saved in browser localStorage
+- Collections, About, Journal, Contact, FAQ, Shipping, Privacy, Terms
+- Accessible button labels, lazy-loaded images, and a mobile menu
 
----
+## Important: concept only
 
-## 🛍️ Our Product Categories
+No real inventory, payments, shipping, checkout, or contact/newsletter submission is enabled. All prices are **illustrative USD amounts**. Product images are representative photographs loaded from Unsplash; they may not depict the exact product names. Google Fonts and Unsplash require an internet connection. Replace demo product data, legal copy, imagery, and forms with verified commercial information before launch.
 
-| Category | Description |
-|---|---|
-| 🎧 Headphones & Audio | Wireless headphones, earbuds, speakers, and audio accessories |
-| 📱 Smartphone Accessories | Phone cases, charging cables, stands, and mobile essentials |
-| ⌚ Smart Devices | Smartwatches, wearable technology, and connected accessories |
-| 💻 Computer Accessories | Keyboards, mice, laptop stands, and workspace essentials |
-| 🎮 Gaming Accessories | Controllers, headsets, gaming peripherals, and accessories |
-| 🔋 Charging & Power | Portable chargers, power banks, adapters, and charging solutions |
-| 📷 Digital Gadgets | Modern electronics and useful everyday devices |
-| 🏠 Smart Home | Connected devices and smart living accessories |
+## Brand identity
 
----
+- Dark Blue: `#101C32`
+- Cyan: `#00D9FF`
+- Gray: `#A7B1BE`
+- Language: English
+- Style: Premium Electronics Store
 
-## 💎 Why TEST32569?
-
-- **Modern Technology** — Discover products designed for today's digital lifestyle.
-- **Premium Design** — A brand identity built around sophistication and innovation.
-- **Everyday Convenience** — Practical technology for work, entertainment, and daily life.
-- **Product Variety** — Explore multiple categories of electronic accessories.
-- **Customer-Focused Vision** — Building a shopping experience around clarity, accessibility, and convenience.
-
----
-
-## 🎯 Our Mission
-
-To make modern technology more accessible and inspiring by bringing together innovative electronics, useful accessories, and premium digital shopping experiences.
-
-## 🚀 Our Vision
-
-To establish **TEST32569** as a recognizable electronics and accessories brand, combining modern technology, contemporary design, and a customer-focused approach.
-
----
-
-## 🎨 Official Brand Identity
-
-| Element | Details |
-|---|---|
-| Brand Name | TEST32569 |
-| Industry | Electronics & Accessories |
-| Business Style | Premium Electronics Store |
-| Primary Color | Dark Blue `#101C32` |
-| Accent Color | Cyan `#00D9FF` |
-| Secondary Color | Gray `#A7B1BE` |
-| Language | English |
-| Currency | USD ($) |
-| Official
+© 2026 TEST32569. Concept website.
